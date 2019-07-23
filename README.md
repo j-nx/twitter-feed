@@ -19,7 +19,7 @@ Client Configuration:
 ```
 $.fn.tweetable.options = {
     api: 'LOCATION_OF_SERVER_SCRIPT',   // Server API
-limit: 5,                               // Number of tweets to show
+    limit: 5,                           // Number of tweets to show
     username: 'USERNAME',               // @username tweets to display
     time: false,                        // Display date
     rotate: false,                      // Rotate tweets
